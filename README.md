@@ -2,7 +2,7 @@
 Code for 'A Novel Kernel Correlation Coefficient with Robustness Against Nonlinear Attenuation and Impulsive Noise'.
 
 # Using
-Using function 'kernel_ppmcc' like  function 'corr' in Matalb.
+Using function 'kernel_ppmcc' like 'corr' in Matlab.
 
 # Result
  ![image](Fig3.png)
